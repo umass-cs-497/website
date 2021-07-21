@@ -18,4 +18,4 @@ Lecture|Day|Date|Reading|Topic|Assignments|
 6|Th|4/23|None|Lambda|[Assignment 5](http://google.com)
 10|Tu|4/30|Review Chapter 1-8|Docker|[Assignment 6](http://google.com)
 
-*Last modified: <2021-07-21 16:06:08>*
+*Last modified: <2021-07-21 16:13:58>*
