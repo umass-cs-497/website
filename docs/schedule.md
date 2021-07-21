@@ -2,7 +2,7 @@
 
 This will eventually be the schedule.
 
-Lecture|Day|Date|Reading|Topic|Assignments|
+Lec|Day|Date|Reading|Topic|Assignments|
 -|-|-|-|-
 1|Tu|4/05|Chapter 1,2|HTTP|[Assignment 1](http://google.com)
 2|Th|4/07|Chapter 3|FTP and Data Types|[Assignment 1](http://google.com)
