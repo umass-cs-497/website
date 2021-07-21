@@ -17,3 +17,5 @@ Lecture|Day|Date|Reading|Topic|Assignments|
 5|Tu|4/21|Chapter 8|IP|[Assignment 4](http://google.com)
 6|Th|4/23|None|Lambda|[Assignment 5](http://google.com)
 10|Tu|4/30|Review Chapter 1-8|Docker|[Assignment 6](http://google.com)
+
+*Last modified: <2021-07-21 16:06:08>*

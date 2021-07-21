@@ -13,3 +13,5 @@ Lec|Day|Date|Reading|Topic|Assignments|
 10|Tu|4/30|Review Chapter 1-8|Docker|[Assignment 6](http://google.com)
 
 *The schedule above is subject to change.*
+
+*Last modified: <2021-07-21 16:05:55>*
