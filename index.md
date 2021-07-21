@@ -1,4 +1,4 @@
-# Scalable Web Systesms
+# Scalable Web Systems
 
 ## COMPSCI 497S
 
