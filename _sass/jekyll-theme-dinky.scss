@@ -270,6 +270,15 @@ header ul {
   padding:0;
 }
 
+header ul {
+  list-style: none;
+}
+
+header ul li::before {
+  // content: "\200B";
+  content: "\25B7";
+}
+
 // header li {
 // 	list-style-type: none;
 //   width:132px;
