@@ -275,8 +275,8 @@ header ul {
 }
 
 header ul li::before {
-  // content: "\200B";
   content: "\25B7";
+  margin-right: 10px;
 }
 
 // header li {
