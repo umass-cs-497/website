@@ -1,39 +1,20 @@
-# Scalable Web Systems
+# Description
 
-## COMPSCI 497S
-
-You can use the [editor on GitHub](https://github.com/umass-cs-497/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umass-cs-497/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The web has become a large and complex area for application
+development. Access to an abundance of open source languages,
+libraries, and frameworks has led to the quick and easy construction
+of a variety of applications with several moving parts working in
+coordination to present to the user the illusion of a single
+program. In reality, web applications are extremely difficult to get
+right. They involve a large collection of coordinated services,
+multiple databases, complicated user interfaces, security and
+performance issues, and ever changing 3rd party services, spread
+across physical and virtual machines. These complications are further
+stressed by the large number of concurrent users that access these
+applications every second. This course will investigate several well
+known web-based applications and the technology and software
+architecture used to scale these applications. We will also study a
+specific topic related to scalability in software design in the
+context of web application architecture. This course counts as a CS
+Elective toward the CS major (BA/BS) and as an Elective toward the
+INFORM major. Prerequisites: COMPSCI 326. 3 credits.
