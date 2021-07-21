@@ -18,3 +18,5 @@ specific topic related to scalability in software design in the
 context of web application architecture. This course counts as a CS
 Elective toward the CS major (BA/BS) and as an Elective toward the
 INFORM major. Prerequisites: COMPSCI 326. 3 credits.
+
+*Last modified: <2021-07-21 16:00:50>*
